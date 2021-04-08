@@ -14,4 +14,10 @@ class CardBackgrounds {
     height: double.maxFinite,
     color: Color(0xffF9F9FA),
   );
+  
+    static Widget lime = Container(
+    width: double.maxFinite,
+    height: double.maxFinite,
+    color: Color(0xff47d147),
+  );
 }
